@@ -1,0 +1,21 @@
+gender,race/ethnicity,"parental level of education",lunch,"test preparation course","math score","reading score","writing score",Total
+female,"group E","associate's degree",standard,none,100,100,100,300
+male,"group E","bachelor's degree",standard,completed,100,100,100,300
+female,"group E","bachelor's degree",standard,none,100,100,100,300
+female,"group E","bachelor's degree",standard,completed,99,100,100,299
+female,"group D","some high school",standard,completed,97,100,100,297
+female,"group D","some college",standard,none,98,100,99,297
+female,"group C","bachelor's degree",standard,completed,96,100,100,296
+male,"group D","some college",standard,completed,100,97,99,296
+male,"group E","associate's degree",free/reduced,completed,100,100,93,293
+female,"group D","bachelor's degree",free/reduced,completed,93,100,100,293
+female,"group E","master's degree",standard,completed,94,99,100,293
+female,"group D","master's degree",standard,none,92,100,100,292
+female,"group E","bachelor's degree",free/reduced,completed,92,100,100,292
+female,"group C","bachelor's degree",standard,completed,92,100,99,291
+female,"group C","associate's degree",standard,completed,96,96,99,291
+female,"group B","bachelor's degree",standard,none,97,97,96,290
+female,"group A","some high school",standard,completed,92,100,97,289
+female,"group E","some college",standard,none,100,92,97,289
+female,"group D","bachelor's degree",standard,none,89,100,100,289
+female,"group E","associate's degree",standard,completed,93,100,95,288
